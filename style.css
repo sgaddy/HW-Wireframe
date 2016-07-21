@@ -1,5 +1,5 @@
 html {
-	background: gold;
+	background: #777;
 }
 body {
 	margin: 0;
@@ -17,6 +17,7 @@ header{
 	height: 35px;
 	padding-top: 15px;	
 	margin-bottom: 5px;
+	margin-top: 5px;
 }
 nav {
 	background: #ebebeb;
@@ -25,7 +26,7 @@ nav {
 	margin-bottom: 10px;
 }
 section {
-	background: blue;
+	background: #ebebeb;
 	width: 495px;
 	float: left;
 	padding-top: 15px;
@@ -56,7 +57,7 @@ p, h1{
 }
 aside {
 	width: 445px;
-	background: pink;
+	background: #ebebeb;
 	padding-top: 15px;
 	padding-bottom: 168px;
 	float: left;
